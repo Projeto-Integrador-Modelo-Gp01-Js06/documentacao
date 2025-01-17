@@ -53,17 +53,6 @@ class Colaborador {
 
 ------
 
-## 4. Diagrama Entidade-Relacionamento (DER)
-
-
-<div align="center">
-    <img src="imagem" title="source: imgur.com" />
-</div>
-
-
-
-------
-
 ## 5. Tecnologias utilizadas
 
 | Item                          | Descrição  |
